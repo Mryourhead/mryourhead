@@ -1,5 +1,15 @@
 ## Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Ridwan Widiyono**.<br>
+
+Saya seorang **Programmer Pemula** .<br>
+
+Saya berangkat dari seorang animator yang ingin belajar coding .<br>
+
+Saya juga memiliki channel Youtube dengan 170ribu subscriber sejak 2024.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ridwan-widio/)ku ya.
 <!--
 **Mryourhead/mryourhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
